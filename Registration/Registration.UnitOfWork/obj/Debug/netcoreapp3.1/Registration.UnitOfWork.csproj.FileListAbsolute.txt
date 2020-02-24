@@ -1,0 +1,13 @@
+C:\Users\radix\source\repos\Registration\Registration.UnitOfWork\bin\Debug\netcoreapp3.1\Registration.UnitOfWork.deps.json
+C:\Users\radix\source\repos\Registration\Registration.UnitOfWork\bin\Debug\netcoreapp3.1\Registration.UnitOfWork.dll
+C:\Users\radix\source\repos\Registration\Registration.UnitOfWork\bin\Debug\netcoreapp3.1\Registration.UnitOfWork.pdb
+C:\Users\radix\source\repos\Registration\Registration.UnitOfWork\bin\Debug\netcoreapp3.1\Registration.BoundedContext.dll
+C:\Users\radix\source\repos\Registration\Registration.UnitOfWork\bin\Debug\netcoreapp3.1\Registration.Models.dll
+C:\Users\radix\source\repos\Registration\Registration.UnitOfWork\bin\Debug\netcoreapp3.1\Registration.BoundedContext.pdb
+C:\Users\radix\source\repos\Registration\Registration.UnitOfWork\bin\Debug\netcoreapp3.1\Registration.Models.pdb
+C:\Users\radix\source\repos\Registration\Registration.UnitOfWork\obj\Debug\netcoreapp3.1\Registration.UnitOfWork.csprojAssemblyReference.cache
+C:\Users\radix\source\repos\Registration\Registration.UnitOfWork\obj\Debug\netcoreapp3.1\Registration.UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\radix\source\repos\Registration\Registration.UnitOfWork\obj\Debug\netcoreapp3.1\Registration.UnitOfWork.AssemblyInfo.cs
+C:\Users\radix\source\repos\Registration\Registration.UnitOfWork\obj\Debug\netcoreapp3.1\Registration.UnitOfWork.csproj.CopyComplete
+C:\Users\radix\source\repos\Registration\Registration.UnitOfWork\obj\Debug\netcoreapp3.1\Registration.UnitOfWork.dll
+C:\Users\radix\source\repos\Registration\Registration.UnitOfWork\obj\Debug\netcoreapp3.1\Registration.UnitOfWork.pdb
